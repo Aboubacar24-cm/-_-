@@ -10,7 +10,7 @@ global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
 global.ownernumber = '224620629694'  //creator number
-global.ownername = ' MR WASI ' //owner name
+global.ownername = ' 𝕱𝖀𝕽𝕿𝖃' //owner name
 global.botname = '𝕱𝖚𝖗𝖎𝖝 𝑩𝑼𝑮-𝑩𝑶𝑻 ' //name of the bot
 
 //sticker details
@@ -18,7 +18,7 @@ global.packname = 'Sticker By'
 global.author = 'WASI'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🦍'
 global.wm = "WASI TECH"
 
 //theme link
